@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&color=gradient&customColorList=1&height=300&section=header&text=idghst&desc=idghst&fontSize=90&animation=twinkling&fontAlignY=90&descAlignY=70)
+![header](https://capsule-render.vercel.app/api?type=Slice&color=gradient&customColorList=1&height=300&section=header&text=IDGHST&desc=이희승&fontSize=90&animation=twinkling&fontAlignY=90&descAlignY=70)
 
 <br>
 
