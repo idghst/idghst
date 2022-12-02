@@ -3,7 +3,7 @@
 <br>
 
 <h3 align="center">
-디자인에 관심이 많은 iOS 개발자입니다.
+  RPA 개발자입니다. iOS 공부 중입니다.
 </h3>
   
 <p align="center">
