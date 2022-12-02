@@ -29,7 +29,7 @@
 <!-- - Portfolio: http://www.jercy.dev -->
 - GitHub: http://github.com/idghst
 <!-- - linkedIn: www.linkedin.com/in/재성-이-b70805141 -->
-- Blog: https://www.jercy.dev/blog
+- Blog: https://idghst.vercel.app/
 
 <!-- - Email: idghst.dev@gmail.com -->
 <!-- - Portfolio: http://www.jercy.dev -->
