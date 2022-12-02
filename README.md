@@ -26,10 +26,16 @@
 <!-- - Youtube: https://www.youtube.com/channel/UC9LmUoZg9CCz7RzUX-AJr8A -->
 
 - Email: idghst.dev@gmail.com
-- Portfolio: http://www.jercy.dev
+<!-- - Portfolio: http://www.jercy.dev -->
 - GitHub: http://github.com/idghst
-- linkedIn: www.linkedin.com/in/재성-이-b70805141
-- Notion Blog: https://www.jercy.dev/blog
+<!-- - linkedIn: www.linkedin.com/in/재성-이-b70805141 -->
+- Blog: https://www.jercy.dev/blog
+
+<!-- - Email: idghst.dev@gmail.com -->
+<!-- - Portfolio: http://www.jercy.dev -->
+<!-- - GitHub: http://github.com/idghst -->
+<!-- - linkedIn: www.linkedin.com/in/재성-이-b70805141 -->
+<!-- - Notion Blog: https://www.jercy.dev/blog -->
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=idghst&layout=compact&theme=tokyonight&hide=html)](https://github.com/idghst)
 
