@@ -26,10 +26,10 @@
 <!-- - Youtube: https://www.youtube.com/channel/UC9LmUoZg9CCz7RzUX-AJr8A -->
 
 - Email: idghst.dev@gmail.com
-<!-- - Portfolio: http://www.jercy.dev -->
+- Portfolio: http://idghst.notion.site
 - GitHub: http://github.com/idghst
-<!-- - linkedIn: www.linkedin.com/in/재성-이-b70805141 -->
 - Blog: https://idghst.vercel.app/
+<!-- - linkedIn: www.linkedin.com/in/재성-이-b70805141 -->
 
 <!-- - Email: idghst.dev@gmail.com -->
 <!-- - Portfolio: http://www.jercy.dev -->
