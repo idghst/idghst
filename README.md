@@ -28,7 +28,7 @@
 - Email: idghst.dev@gmail.com
 - Portfolio: http://idghst.notion.site
 - GitHub: http://github.com/idghst
-- Blog: https://idghst.vercel.app/
+- Blog: https://idghst.tistory.com/
 <!-- - linkedIn: www.linkedin.com/in/재성-이-b70805141 -->
 
 <!-- - Email: idghst.dev@gmail.com -->
