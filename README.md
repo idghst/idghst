@@ -37,7 +37,7 @@
 <!-- - linkedIn: www.linkedin.com/in/재성-이-b70805141 -->
 <!-- - Notion Blog: https://www.jercy.dev/blog -->
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=idghst&layout=compact&theme=tokyonight&hide=html)](https://github.com/idghst)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=idghst&layout=compact&theme=tokyonight)](https://github.com/idghst)
 
 [![](https://github-readme-stats.vercel.app/api?username=idghst&&theme=tokyonight)](https://github.com/idghst)
 
