@@ -39,7 +39,7 @@
 <!-- - linkedIn: www.linkedin.com/in/재성-이-b70805141 -->
 <!-- - Notion Blog: https://www.jercy.dev/blog -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idghst&layout=compact&theme=blue-green&langs_count=4)](https://github.com/idghst)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idghst&layout=compact&theme=blue-green&langs_count=4&hide=html,css,scss,ruby,shell)](https://github.com/idghst)
 
 ![idghst's GitHub stats](https://github-readme-stats.vercel.app/api?username=idghst&theme=blue-green&show_icons=true)
 
