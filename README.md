@@ -1,9 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&color=gradient&customColorList=1&height=300&section=header&text=IDGHST&desc=이희승&fontSize=90&animation=twinkling&fontAlignY=90&descAlignY=70)
+![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=IDGHST&fontAlign=70&rotate=13&fontAlignY=25&desc=iOS%20Developer&descAlign=70.&descAlignY=44)
 
 <br>
 
 <h3 align="center">
-  RPA 개발자입니다. iOS 공부 중입니다.
+  iOS Developer
+  <br>
+  RPA Developer
 </h3>
   
 <p align="center">
@@ -26,7 +28,7 @@
 <!-- - Youtube: https://www.youtube.com/channel/UC9LmUoZg9CCz7RzUX-AJr8A -->
 
 - Email: idghst.dev@gmail.com
-- Portfolio: http://idghst.notion.site
+- Portfolio: http://idghst.github.io
 - GitHub: http://github.com/idghst
 - Blog: https://idghst.tistory.com/
 <!-- - linkedIn: www.linkedin.com/in/재성-이-b70805141 -->
