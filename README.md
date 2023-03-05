@@ -45,4 +45,6 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=idghst)](https://solved.ac/idghst)
 
+<a href="https://opgc.me/#/users/idghst" target="_blank"><img src="https://api.opgc.me/githubs/users/idghst/tag/?theme=basic" /></a>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=http%3A%2F%2Fgithub.com%2Fidghst&count_bg=%231118A2&title_bg=%23707070&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
