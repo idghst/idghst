@@ -1,11 +1,11 @@
-![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=IDGHST&fontAlign=70&rotate=13&fontAlignY=25&desc=iOS%20Developer&descAlign=70.&descAlignY=44)
+![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=IDGHST&fontAlign=70&rotate=13&fontAlignY=25)
 
 <br>
 
 <h3 align="center">
-  iOS Developer
+  iOS Dev
   <br>
-  RPA Developer
+  RPA Dev
 </h3>
   
 <p align="center">
@@ -28,9 +28,8 @@
 <!-- - Youtube: https://www.youtube.com/channel/UC9LmUoZg9CCz7RzUX-AJr8A -->
 
 - Email: idghst.dev@gmail.com
-- Portfolio: http://idghst.github.io
-- GitHub: http://github.com/idghst
 - Blog: https://idghst.tistory.com/
+<!-- - Portfolio: http://idghst.github.io -->
 <!-- - linkedIn: www.linkedin.com/in/재성-이-b70805141 -->
 
 <!-- - Email: idghst.dev@gmail.com -->
@@ -39,12 +38,14 @@
 <!-- - linkedIn: www.linkedin.com/in/재성-이-b70805141 -->
 <!-- - Notion Blog: https://www.jercy.dev/blog -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idghst&layout=compact&theme=blue-green&langs_count=4&hide=html,css,scss,ruby,shell)](https://github.com/idghst)
-
-![idghst's GitHub stats](https://github-readme-stats.vercel.app/api?username=idghst&theme=blue-green&show_icons=true)
-
+[![idghst's GitHub stats](https://github-readme-stats.vercel.app/api?username=idghst&theme=blue-green&show_icons=true)](https://github.com/idghst)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idghst&layout=compact&theme=blue-green&langs_count=10&hide=HTML,CSS,SCSS,SHELL,RUBY)](https://github.com/idghst)
+<br>
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=idghst)](https://solved.ac/idghst)
-
+<br>
 <a href="https://opgc.me/#/users/idghst" target="_blank"><img src="https://api.opgc.me/githubs/users/idghst/tag/?theme=basic" /></a>
-
+<br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=http%3A%2F%2Fgithub.com%2Fidghst&count_bg=%231118A2&title_bg=%23707070&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idghst&layout=compact&theme=blue-green&langs_count=4&hide=html,css,scss,ruby,shell)](https://github.com/idghst) -->
