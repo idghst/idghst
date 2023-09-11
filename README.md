@@ -1,40 +1,72 @@
-![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=IDGHST&fontAlign=70&rotate=13&fontAlignY=25)
+![](https://img.shields.io/github/followers/idghst?style=social)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fidghst%2Fidghst)](https://hits.seeyoufarm.com)
 
-<h3 align="center">
-  iOS Dev
-  <br>
-  RPA Dev
-</h3>
+# Dev. HeeSeung Lee
 
-<p align="center">
-  <a href="https://github.com/idghst"><img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/></a>
-  <a href="https://github.com/idghst"><img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>
+**Welcome to my page!**
+
+I am a iOS developer.
+
+My main focus areas are **`App Front`** or **`RPA`**.
+
+I always pay attention to new technology and enjoy learning new and diverse technology stacks.
+
+<a href="https://idghst.tistory.com/" target="_blank">
+    <img 
+        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://idghst.tistory.com/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
+<a href="https://idghst.github.io/" target="_blank">
+    <img 
+        src="http://img.shields.io/badge/-Portfolio-ff69b4?style=flat&logo=github&link=https://idghst.github.io/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
+
+
+
+
+
+
+
+<!-- ![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=IDGHST&fontAlign=70&rotate=13&fontAlignY=25) -->
+
+<!-- <h3 align="center"> -->
+  <!-- iOS Dev -->
+  <!-- <br> -->
+  <!-- RPA Dev -->
+<!-- </h3> -->
+
+<!-- <p align="center"> -->
+  <!-- <a href="https://github.com/idghst"><img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/></a> -->
+  <!-- <a href="https://github.com/idghst"><img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a> -->
   <!-- <img src="https://img.shields.io/badge/ObjectiveC-A8B9CC?style=flat-square&logo=jaaaa&logoColor=white"/></a> -->
-  <a href="https://github.com/idghst"><img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/></a>
+  <!-- <a href="https://github.com/idghst"><img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/></a> -->
   <!-- <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/></a> -->
-  <a href="https://github.com/idghst"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>
+  <!-- <a href="https://github.com/idghst"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a> -->
   <!-- <img src="https://img.shields.io/badge/Sketch-F7B500?style=flat-square&logo=Sketch&logoColor=white"/></a> -->
   <!-- <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/></a> -->
   
   <!-- <a href="https://github.com/idghst"><img src=""/></a> -->
-</p>
+<!-- </p> -->
 
-<p align="center">
+<!-- <p align="center"> -->
 <!-- - Email: idghst.dev@gmail.com -->
 <!-- - Blog: https://idghst.tistory.com/ -->
-</p>
+<!-- </p> -->
 
-<p align="center">
-  <a href="https://github.com/idghst"><img src="https://github-readme-stats.vercel.app/api?username=idghst&theme=blue-green&show_icons=true" /></a>
-  <br>
-  <a href="https://github.com/idghst"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idghst&layout=compact&theme=blue-green&langs_count=10&hide=HTML,CSS,SCSS,SHELL,RUBY" /></a>
-  <br>
-  <a href="https://solved.ac/profile/idghst" target="_blank"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=idghst" /></a>
-  <br>
-  <a href="https://opgc.me/#/users/idghst" target="_blank"><img src="https://api.opgc.me/githubs/users/idghst/tag/?theme=basic" /></a>
-  <br><br>
-  <a href="https://solved.ac/idghst"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=http%3A%2F%2Fgithub.com%2Fidghst&count_bg=%231118A2&title_bg=%23707070&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" /></a>
-</p>
+<!-- <p align="center"> -->
+  <!-- <a href="https://github.com/idghst"><img src="https://github-readme-stats.vercel.app/api?username=idghst&theme=blue-green&show_icons=true" /></a> -->
+  <!-- <br> -->
+  <!-- <a href="https://github.com/idghst"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idghst&layout=compact&theme=blue-green&langs_count=10&hide=HTML,CSS,SCSS,SHELL,RUBY" /></a> -->
+  <!-- <br> -->
+  <!-- <a href="https://solved.ac/profile/idghst" target="_blank"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=idghst" /></a> -->
+  <!-- <br> -->
+  <!-- <a href="https://opgc.me/#/users/idghst" target="_blank"><img src="https://api.opgc.me/githubs/users/idghst/tag/?theme=basic" /></a> -->
+  <!-- <br><br> -->
+  <!-- <a href="https://solved.ac/idghst"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=http%3A%2F%2Fgithub.com%2Fidghst&count_bg=%231118A2&title_bg=%23707070&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" /></a> -->
+<!-- </p> -->
 
 <!-- - Email: wotjdzz1@naver.com -->
 <!-- - Portfolio: http://www.jercy.dev -->
